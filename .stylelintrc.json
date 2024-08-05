@@ -1,0 +1,14 @@
+{
+    "extends": "stylelint-config-standard",
+    "rules": {
+        "indentation": [2, {
+            "except": ["block"]
+        }],
+        "string-quotes": "double",
+        "max-empty-lines": 2
+    }
+}
+
+
+
+
