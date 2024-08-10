@@ -1,5 +1,5 @@
 body {
-    font-family: Arial, sans-serif;
+    font-family: Arial, sans-serif; /* 引用符なし */
     margin: 20px;
     text-align: center;
 }
